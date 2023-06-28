@@ -35,7 +35,17 @@ If you have any questions or would like to collaborate on exciting projects, ple
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/Bartex890/)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/Bartex890/)
 
+## 📕 My favourite projects
 
+- <a href="https://github.com/Bartex890/Misfortune-Spell/">
+  Roguelike - Misfortune Spell</a>
+
+- <a href="https://github.com/Bartex890/War-Of-Gods-Build/">
+  Turn-Based Strategy - War of Gods</a>
+
+- <a href="https://github.com/Bartex890/Na-ratunek-Edukacji/">
+   Polish education Game - Na ratunek Edukacji
+  </a>
 
 
 
