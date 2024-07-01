@@ -37,15 +37,14 @@ If you have any questions or would like to collaborate on exciting projects, ple
 
 ## 📕 My favourite projects
 
-- <a href="https://github.com/Bartex890/Misfortune-Spell/">
+- <a href="https://drive.google.com/file/d/120QwNWjnNLvokajpYsfmx4jatDeqe5d8/view?usp=sharing/">
   Roguelike - Misfortune Spell</a>
+
+- <a href="https://glitchy-games-studio.itch.io/trucks-trails-and-troublemakers/">
+  Crazy Racing Game - Trucks Trails and Troublemakers</a>
 
 - <a href="https://github.com/Bartex890/War-Of-Gods-Build/">
   Turn-Based Strategy - War of Gods</a>
-
-- <a href="https://github.com/Bartex890/Na-ratunek-Edukacji/">
-   Polish education Game - Na ratunek Edukacji
-  </a>
 
 
 
